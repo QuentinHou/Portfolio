@@ -31,7 +31,7 @@ const SocialNetwork = () => {
           </li>
         </a>
         <a
-          href="https;//www.facebook.com"
+          href="https://twitter.com/Byak00"
           target="_blank"
           rel="noopener noreferrer"
           className="hover"
